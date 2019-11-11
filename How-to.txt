@@ -1,0 +1,5 @@
+This is a manual for Jeremy Amin's PoC for FOAR705.
+
+In this, you will learn how to:
+
+Convert Docx files to md 
