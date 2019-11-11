@@ -5,3 +5,5 @@ You will learn how to:
 1. Convert Docx files to markdown (md) or plaintext (txt) and vice versa from Terminal using Pandoc.
 2. Retain the comments from the Docx file when converting to md or txt so that the comments are visible in the md or txt file.
 3. Create local and distributed version controlled repositories for your documents which will enable you to track all comments made to your Docx files.
+
+The initial set up for everything is approximately 30 minutes depending on how well the user can navigate a computer, and especially Terminal.
