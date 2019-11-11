@@ -1,5 +1,7 @@
 This is a manual for Jeremy Amin's PoC for FOAR705.
 
-In this, you will learn how to:
+You will learn how to:
 
-Convert Docx files to md 
+1. Convert Docx files to markdown (md) or plaintext (txt) and vice versa from Terminal using Pandoc.
+2. Retain the comments from the Docx file when converting to md or txt so that the comments are visible in the md or txt file.
+3. Create local and distributed version controlled repositories for your documents which will enable you to track all comments made to your Docx files.
