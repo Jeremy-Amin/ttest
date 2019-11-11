@@ -1,0 +1,465 @@
+    1  ls
+    2  1s
+    3  ks
+    4  pwd
+    5  lls
+    6  pwd
+    7  ls
+    8  pwd
+    9  ls
+   10  ls
+   11  pwd
+   12  ls -F
+   13  ls
+   14  ls -F
+   15  ls  -F -C
+   16  ls -FC
+   17  ls -f
+   18  ls --C
+   19  ls --c
+   20  ls --Color
+   21  ls --color
+   22  ls
+   23  pwd
+   24  ls -F
+   25  help
+   26  ls --help
+   27  ls -a
+   28  ls -G
+   29  ls
+   30  ls -G pws
+   31  pwd
+   32  ls -F
+   33  ls -GF
+   34  ls -j
+   35  nano ~/.bash_profile
+   36  nano ~/.bash_profile
+   37  ls
+   38  pwd
+   39  ls -G
+   40  ls
+   41  pwd
+   42  ls -G
+   43  ls -GL
+   44  ls -Gpwd
+   45  ls
+   46  pwd
+   47  ls -G
+   48  ls -F
+   49  ls -FG
+   50  ls -GF
+   51  pwd
+   52  ls -F //
+   53  ls -F /
+   54  ls -GF /
+   55  ls
+   56  ls -GF
+   57  cls
+   58  clear
+   59  man
+   60  clea
+   61  clear
+   62  man
+   63  clear
+   64  --help
+   65  man
+   66  ls --help
+   67  ls -help
+   68  ls -j
+   69  man ls
+   70  man ls
+   71  ls --help
+   72  ls -l
+   73  ls -lC
+   74  ls -Cl
+   75  ls -C
+   76  ls -Gl
+   77  ls -Ghl
+   78  ls -h
+   79  ls -l
+   80  ls -h
+   81  ls -lh
+   82  ls -hl
+   83  ls -Glh
+   84  clear
+   85  ls -R
+   86  clear
+   87  ls -R
+   88  ls -t
+   89  ls -Rt
+   90  ls -Rt
+   91  ls -Rtl
+   92  ls
+   93  pwd
+   94  ls G
+   95  ls -G
+   96  ls -F
+   97  man ls
+   98  clea
+   99  clear
+  100  ls -t
+  101  ls -l
+  102  ls -FG Desktop
+  103  ls -FGt Desktop
+  104  clear
+  105  ls -GtlF Desktop
+  106  ls -F Desktop/OpenRefine
+  107  ls -F Desktop/Openrefine
+  108  ls -F Desktop/Feser
+  109  ls -F Desktop/Feser
+  110  ls -FG Desktop/PDF's
+  111  llllclear
+  112  clear
+  113  pwd
+  114  ls -F
+  115  ls -FG
+  116  pwd
+  117  ls -FG
+  118  cd Desktop
+  119  pwd
+  120  ls -FG
+  121  cd Feser
+  122  pwd
+  123  ls -FG
+  124  ls -t
+  125  ls -GTR
+  126  pwd
+  127  ls -l
+  128  mad ls
+  129  cd ~
+  130  pwd
+  131  man ls
+  132  Open Cambridge Companion to Hayek Contents.pdf
+  133  pwd
+  134  cd Desktop
+  135  cd Feser
+  136  ls
+  137  ls -G
+  138  cd Cambridge Compation to Hayek
+  139  pwd
+  140  Open Feser Perverted Faculty Argument
+  141  Open Feser Perverted Faculty Argument.pdf
+  142  Open Feser
+  143  ls -G
+  144  Open ~/Feser/Feser Perverted Faculty Argument.pdf
+  145  pwd
+  146  ls -G
+  147  Open Feser-on-Nozick-Erick-Mack.pdf
+  148  ls -G
+  149  Open Feser-on-Nozick-Eric-Mack.pdf
+  150  .bash_profile
+  151  .bash-profile
+  152  nano .bash_profile
+  153  nano .bash_profile
+  154  pwd
+  155  ls -G
+  156  ls -F
+  157  ls -FG
+  158  clear
+  159  clear
+  160  ls -FG
+  161  cd Desktop
+  162  ls -F
+  163  cd
+  164  cd Desktop/data-shell
+  165  ls -FG
+  166  pwd
+  167  ls -FGl
+  168  ls _FGRl
+  169  ls -FGRL
+  170  pwd
+  171  ls -FGL
+  172  ls -FGl
+  173  pwd
+  174  ls -FG
+  175  mkdir thesis
+  176  ls -F
+  177  cd thesis
+  178  nano draft.txt
+  179  nano .bash_profile
+  180  ls -
+  181  ls
+  182  ls
+  183  pwd
+  184  cd /
+  185  pwd
+  186  cd /Users/JeremyAmin
+  187  ls -G
+  188  ls
+  189  ls -G
+  190  ls -F
+  191  ls
+  192  ls ;F
+  193  ls -F
+  194  ls -GF
+  195  cd thesis
+  196  cd Desktop
+  197  cd data-shell
+  198  ls
+  199  ls -FG
+  200  cd theses
+  201  cd thesis
+  202  ls
+  203  touch my_file.txt
+  204  ls
+  205  ls -l
+  206  cd ~/Desktop/data-shell/
+  207  mv thesis/draft.txt thesis/quotes.txt
+  208  ls
+  209  cd thesis
+  210  ls
+  211  mv thesis/quotes/txt .
+  212  ls -F
+  213  ..
+  214  cd ..
+  215  ls -F
+  216  ls -F -a
+  217  ls -FG -a
+  218  mv thesis/quotes.txt .
+  219  ls
+  220  pw
+  221  pwd
+  222  cd thesos
+  223  cd thesis
+  224  ls
+  225  ls -F
+  226  pwd
+  227  ls 
+  228  ls quotes.txt
+  229  cd ..
+  230  ls quotes.txt
+  231  ls -F
+  232  ls -F analysed
+  233  man ls
+  234  nano
+  235  cd Desktop
+  236  cd data-shell
+  237  pwd
+  238  ls -FG
+  239  nano
+  240  nano Test.txt
+  241  pwd
+  242  ls -FG
+  243  clear
+  244  cd
+  245  cd Desktop/
+  246  nano
+  247  clear
+  248  cd
+  249  cd Desktop/
+  250  ls
+  251  ls -F
+  252  ls -FG
+  253  clar
+  254  clear
+  255  cd
+  256  cd Desktop/data-shell/
+  257  ls
+  258  ls molecules/
+  259  wc *.pdb
+  260  cd molecules/
+  261  wc *.pdb
+  262  wc -l *.pdb
+  263  history
+  264  wc -l *.pdb > lengths.txt
+  265  ls
+  266  cat lengths.txt 
+  267  nano lengths.txt
+  268  sort lengths.txt
+  269  sort -n lengths.txt 
+  270  sort -a lengths.txt 
+  271  sort -d lengths.txt 
+  272  sort -n lengths.txt 
+  273  man sort
+  274  man sort
+  275  ls
+  276  pwd
+  277  wc -l
+  278  pwd
+  279  cd Desktop/
+  280  cd data-shell/
+  281  pwd
+  282  ls
+  283  ls -l *pwd.
+  284  wc *.pdb
+  285  ls -F Desktop\data-shell
+  286  cd Desktop
+  287  cd data-shell
+  288  ls
+  289  ls -G
+  290  cd ~
+  291  pwd
+  292  ls -FG cd Desktop/
+  293  cd DEsktop
+  294  cd Desktop
+  295  cd ~
+  296  cd Desktop
+  297  ls
+  298  ls -FG
+  299  cd ~
+  300  clear
+  301  cd ~
+  302  ls
+  303  cd -G
+  304  ls -G
+  305  ls -F
+  306  ls -FG
+  307  ls -G
+  308  ls -FG
+  309  ls GFR
+  310  ls -FGR
+  311  clear
+  312  pwd
+  313  ls -FG
+  314  cd Desktop
+  315  cd data-shell/
+  316  ls -FG
+  317  cd Desktop/data-shell/
+  318  ls molecules
+  319  wc *.pdb
+  320  cd molecules
+  321  wc *.pdb
+  322  wc -l
+  323  wc -l *.pdb
+  324  cd Desktop/data-shell/molecules/
+  325  wc -l *.pdb
+  326  ls
+  327  wc length.txt
+  328  wc lengths.txt
+  329  wc -l lengths.txt 
+  330  less lengths.txt 
+  331  wc -l *pdb > length.txt
+  332  ls
+  333  cat length.txt 
+  334  cat lengths.txt 
+  335  rm length.txt
+  336  ls
+  337  less lengths.txt 
+  338  sort
+  339  cd molecules
+  340  cd Desktop/data-shell/molecules/
+  341  sort -N lengths.txt 
+  342  sort -n lengths.txt 
+  343  git --version
+  344  ls -al
+  345  git remote add origin https://github.com/Jeremy-Amin/RStudio.git
+  346  git push -u origin master
+  347  git remote add origin https://github.com/Jeremy-Amin/RStudio.git
+  348  Jeremys-MacBook-Pro:data-carpentry JeremyAmin$ git push -u origin master
+  349  git remote add origin https://github.com/Jeremy-Amin/RStudio.git
+  350  Jeremys-MacBook-Pro:data-carpentry JeremyAmin$ git push -u origin master
+  351  ls -al
+  352  git remote add origin https://github.com/Jeremy-Amin/RStudio.git
+  353  git push -u origin master
+  354  ls -al
+  355  git remote add origin https://github.com/Jeremy-Amin/RStudio.git
+  356  git push -u origin master
+  357  ls
+  358  ls -1
+  359  ls -l
+  360  pwd
+  361  ls /users
+  362  mkdir adil
+  363  cd adil
+  364  ls
+  365  vi tst.c
+  366  ls
+  367  cat tst.c
+  368  cc tst.c
+  369  r vi
+  370  ls
+  371  a.out
+  372  ./a.out
+  373  history
+  374  ls
+  375  ./a.out
+  376  cat tst.c
+  377  vi tst.sh
+  378  chmod 744 tst.sh
+  379  echo "Hello"
+  380  ./tst.sh
+  381  cat tst.sh
+  382  pwd
+  383  ls
+  384  cd /usr/local/git
+  385  ls
+  386  cd /usr/local
+  387  l
+  388  ls
+  389  cd /usr
+  390  ls
+  391  cd /usr/local/git
+  392  ls
+  393  cd /usr/share/man
+  394  ls
+  395  pwd
+  396  ls
+  397  cd desktop
+  398  pwd
+  399  cd Pico-examle-script
+  400  pwd
+  401  cat > Pico-readme.txt
+  402  ls
+  403  vi Pico-example-script-readme.txt
+  404  ls
+  405  ls -l
+  406  mv /Pico-readme.txt /Pico-example-script-readme.txt
+  407  mv /desktop/Pico-examle-script/Pico-readme.txt //desktop/Pico-examle-scriptPico-example-script-readme.txt
+  408  mv /desktop/Pico-examle-script/Pico-readme.txt /desktop/Pico-examle-script/Pico-example-script-readme.txt
+  409  mv /desktop/Pico-examle-script /desktop/Pico-example-script
+  410  mv /Users/JeremyAmin/desktop/Pico-examle-script /Users/JeremyAmin/desktop/Pico-example-script
+  411  mv /Users/JeremyAmin/desktop/Pico-example-script/Pico-readme.txt /Users/JeremyAmin/desktop/Pico-example-script/Pico-example-script-readme.txt
+  412  cd ~/Downloads
+  413  cd Desktop
+  414  cd ~/Desktop
+  415  curl -O [https://git.overleaf.com/5dc25fe708305a00018fcaec]
+  416  curl -O [https://git.overleaf.com/5dc25fe708305a00018fcaec]
+  417  curl -O https://git.overleaf.com/5dc25fe708305a00018fcaec
+  418  mkdir -p SHELL-TEST-P/SHELL-TEST-C
+  419  cd SHELL-TEST-P
+  420  url -O https://git.overleaf.com/5dc25fe708305a00018fcaec
+  421  url -O https://git.overleaf.com/5dc25fe708305a00018fcaec
+  422  curl -O https://git.overleaf.com/5dc25fe708305a00018fcaec
+  423  pwd
+  424  type cp
+  425  file cp
+  426  file /bin/cp
+  427  file ~/Desktop/main.tex
+  428  pwd
+  429  cd ~
+  430  type type
+  431  type file
+  432  file /usr/bin/file
+  433  type cd
+  434  type pwd
+  435  type dd
+  436  file /bin/dd
+  437  file cp
+  438  type cp
+  439  type type
+  440  typr file
+  441  type fie
+  442  type fie
+  443  type file
+  444  echo $PATH
+  445  find /usr -name pandoc -print
+  446  git clone https://github.com/Jeremy-Amin/git-test.git
+  447  git pull
+  448  ls
+  449  vi rename
+  450  chmod 744 rename
+  451  ls -l rename
+  452  chmod u+x rename
+  453  chmod 111 reanme
+  454  set -o vi
+  455  chmod 111 rename
+  456  ls -l rename
+  457  chmod 744 rename
+  458  vi rename
+  459  PATH="$PATH:."
+  460  export PATH
+  461  rename
+  462  cat rename
+  463  vi rename 
+  464  rename
+  465  history > myhistory

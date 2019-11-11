@@ -1,0 +1,6 @@
+cat ttest5.txt | \
+awk ' \
+{/date=/ { \
+	ii = index(date=)  \
+	print ii  \
+}'
