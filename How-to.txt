@@ -1,9 +1,28 @@
 This is a manual for Jeremy Amin's PoC for FOAR705.
 
-You will learn how to:
+In this manual you will learn how to:
 
-1. Convert Docx files to markdown (md) or plaintext (txt) and vice versa from Terminal using Pandoc.
-2. Retain the comments from the Docx file when converting to md or txt so that the comments are visible in the md or txt file.
-3. Create local and distributed version controlled repositories for your documents which will enable you to track all comments made to your Docx files.
+1. Convert Docx files which include in-document comments to other file formats eg Plain Text and retain the in document comments from the Docx file.
+2. Save mutliple versions of your Docx file and the Plain Text file in a directory (folder) locally on your computer or laptop.
+3. Syncronise the locally saved directory (folder) to an online repository, guaranteeing you will never lose your documents.
+4. View all of the versions of your uploaded documents from any computer with an internet connection.
+5. View all of the changes between versions of your uploaded documents in a way that you can compare one version with another. This is especially useful for the in-document Docx comments which you converted. Rather than needing Word to view and track comments on your work, you can view the comments in a way which allows for quick and easy comparisons for multiple versions of your work.
 
-The initial set up for everything is approximately 30 minutes depending on how well the user can navigate a computer, and especially Terminal.
+NOTE: This manual assumes you already have Microsoft Word and BASH installed on your computer.
+
+TO BEGIN, YOU NEED TO DOWNLOAD:
+
+Git from https://git-scm.com/
+Pandoc from https://pandoc.org/
+
+YOU NEED TO HAVE AN ACCOUNT ON:
+
+https://github.com/
+
+1. Use Shell in Terminal to use a program called 'Pandoc' to convert eg Docx files to Text files and vice versa.
+2. Use Shell to use a program called 'Git' to version control a directoty (folder) of your choosing locally on your comuter or laptop and to also syncronise the same directory (folder) online.
+3. Retain the comments from the Docx file when converting to md or txt so that the comments are visible in the md or txt file.
+4. Create local and distributed version controlled repositories for your documents which will enable you to track all comments made to your Docx files.
+5. 
+
+The initial set up for everything is approximately 30 minutes depending on how well the user can navigate a computer, and especially Shell.
