@@ -20,7 +20,8 @@ Here are some example scripts to run in Shell.
    editor in Shell. Press 'i', write whatever you want as the commit message, then press 'esc' then
    'wq' to commit the change to your local repository and to quit the text editor in Shell:
 	git commit
-
+   To commit changes to local repository without going into the tex editor, add '-m' and then inside single quotes write the commit message
+	git commit -m 'Commit message'i:wq
    To connect your local repository to an online repository:
    Go to GitHub.com and create a new repository. Once created a setup page will appear with a list of commands.
    There will be a section named '...or create a new repositry on the command line'. In that section there will be two commands you are intereste in:
