@@ -1,0 +1,30 @@
+Here are some example scripts to run in Shell.
+
+1. Using Pandoc to convert a Docx to txt:
+	pandoc -s file.docx -o file.txt
+
+   To keep the in-document comments from Docx
+	pandoc --track-changes=all file.docx -o file .txt
+
+
+2. Using Git to create a local repository:
+	git init
+
+   To add file(s) to the local repository:
+	git add <file>
+
+   To check the status of the current working tree of your repository in a 'staging area'. This will allow you to see what has been modified before you decide to commit them:
+	git status
+
+   To commit changes to your local repository. With this command you will be taken to the text
+   editor in Shell. Press 'i', write whatever you want as the commit message, then press 'esc' then
+   'wq' to commit the change to your local repository and to quit the text editor in Shell:
+	git commit
+
+   To connect your local repository to an online repository:
+   Go to GitHub.com and create a new repository. Once created a setup page will appear with a list of commands.
+   There will be a section named '...or create a new repositry on the command line'. In that section there will be two commands you are intereste in:
+	git remote add origin <URL>
+        git push -u origin master
+   The first command will connect your local repository with the repository you just made on GitHub.
+   The second command will push (upload) your local repository to the online repository.
